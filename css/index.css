@@ -1,0 +1,147 @@
+.container
+{
+	margin: 50 auto;
+    margin-bottom: auto;
+
+}
+.logo
+{
+	height: 110px;
+	max-width: 110 px;
+    
+}
+
+.main_AD {
+    height:  120px;
+    width: 740px;
+        
+    
+}
+
+
+ul {
+  /*  border: 1px solid #e7e7e7;*/
+    list-style-type: none;
+    margin: 2px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #861346;
+   
+}
+
+li {
+    border-right: 2px solid white;
+    float: left;
+    line-height: 11px;
+    margin-bottom: 0px;
+    word-spacing: -5px;
+    
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+
+    font-size: 23px;
+	font-family: monospace;
+	/*text-shadow: 5px 5px 5px black, 0 0 25px blue, 0 0 5px #c9c4c1;*/
+	text-align: center;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover, .current{
+   background-color: #b43e81;
+     color: white;
+   
+    
+}
+
+.lets_play {
+padding-left: 20px;    
+ font-size: 25px;
+ font-family: sans-serif;   
+ text-shadow:2px 3px 15px #ffa10a;
+ border-left: 8px solid #b43e81;
+ background-color:#f9f8f4;
+ color:#b43e81;
+font-weight: bold;
+    
+}
+
+.adsidefir {
+    height: 350px;
+    width: 120px;
+    margin-top: 2px;
+    margin-right: 3px;
+    margin-bottom: 2px;
+    
+}
+
+
+.id1h, .id2h{
+    height: 260px;
+    max-width: 400px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 1px;
+    margin-bottom: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+
+.id3h, .id4h, .id5h, .id6h, .id7h, .id8h, .id9h, .id10h, .id11h, .id12h, .id13h, .id13h, .id14h{
+    width: 100%;
+    height: 240px;
+/*    padding-right: 10px;*/
+    background-color:#f7f5ed;
+    margin-top: 30px;
+/*    box-shadow: 5px 5px 5px #ffa66b;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+
+.lets_play>p{
+     margin-bottom: 0px;
+}
+
+.footer_bg {
+    height: 100px;
+    background: url('../img/Untitled-1.jpg');  
+    margin-top: 20px;
+    margin-bottom: auto;
+  
+
+
+}
+
+.s4s{
+    
+    padding-top: 35px;
+	font-size: 15px;
+	font-family: monospace;
+	text-shadow:2px 3px 15px #292929;
+	color:white;
+	text-align: center;
+}
+s4s > a{
+    color:aqua;
+    text-decoration: none;
+}
+
+
+.footer_logo {
+    height: 10px;
+    
+}
+
+.up_arrow {
+    height: 10px;
+}

@@ -1,0 +1,25 @@
+.content {
+    height:500px;
+    background: #f7f5ed;
+    margin-top: 10px;
+    
+    
+}
+
+.content h3{
+    
+ padding-left: 20px;    
+ font-size: 25px;
+ font-family: sans-serif;   
+ border-left: 4px solid #b43e81;
+ background-color:white;
+ color:#b43e81;
+ font-weight: bold;
+     
+    
+    
+}
+.content p{
+    padding-left:20px;
+    padding-right:20px;
+}

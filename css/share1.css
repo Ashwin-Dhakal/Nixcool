@@ -1,0 +1,27 @@
+
+.id1sb {
+    background-image:url(../img/game/id1/id1s.jpg);
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 80px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 1px;
+    margin-bottom: 2px;
+}
+
+.user_photo {
+    height: 260px;
+    border-radius: 260px;
+    width: 260px;
+    margin-top: 70px;
+    margin-left: 270px;
+}
+
+.frn_photo{
+    height: 260px;
+    border-radius: 260px;
+    width: 260px;
+    margin-top: 70px;
+    margin-left: 270px;
+}

@@ -1,0 +1,734 @@
+/*fb share button*/
+.result{
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 1px;
+    margin-bottom: 2px;
+}
+
+.share_button{
+    width: 300px;
+    margin: 0px auto;
+    margin-top: 20px;
+    display: block;
+    
+}
+
+.btnz {
+    float: left;
+    padding: 10px 15px;
+    border:none;
+    background-color: #ececec;
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+}
+.btnz:hover {
+    color: #efefef;
+}
+
+.facebook {
+    background-color: #3b5998;
+}
+
+/*--------------------for 1st share ------------*/
+
+.share1{
+    background-image:url('../img/game/id1/id1s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share1 > .user{
+    background-size: 180px 180px;
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    background-repeat: no-repeat;
+    margin-top:63px;
+    float: left;
+    margin-left: 17px;
+    
+
+
+}
+.share1>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 200px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share1>.frn{
+    background-size: 180px 180px;
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 22px;
+    margin-top: 170px;
+
+    
+}
+.share1>.frn>.nam_format{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin-top: -80px;
+    margin-right: 40px;
+    text-shadow:2px 3px 15px red;
+    
+}
+
+.share1 > .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float: right;
+    margin-right:20px;
+    padding-top: 86px;
+}
+/*--------------------for 2nd share ------------*/
+
+
+.share2{
+    background-image:url('../img/game/id2/id2s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share2 > .user{
+    background-size: 180px 180px;
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    background-repeat: no-repeat;
+    margin-top:73px;
+    float: left;
+    margin-left: 17px;
+    
+
+    
+
+
+}
+.share2>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 180px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share2 > .random{
+    color:greenyellow;
+    float: right;
+    font-size: 25px;
+    padding-top: 152px;
+    padding-right: 143px;
+    text-shadow:2px 3px 15px white;
+
+}
+
+/*--------------------for 3rd share ------------*/
+.share3{
+    background-image:url('../img/game/id3/id3s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share3 > .user{
+    background-size: 140px 140px;
+    height: 140px;
+    width: 140px;
+    border-radius: 70%;
+    background-repeat: no-repeat;
+    margin-top:5px;
+/*    float: left;*/
+    margin: auto;
+    margin-left: 240px;
+
+}
+
+
+.share3>.frn{
+    background-size: 165px 165px;
+    height: 165px;
+    width: 165px;
+    border-radius: 83%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 162px;
+    margin-top: 30px;
+
+    
+}
+
+.share3 > .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float: left;
+    margin-left:50px;
+    margin-top: -55px;
+}
+
+/*------------share4---------------*/
+
+.share4{
+    background-image:url('../img/game/id4/id4s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share4 > .user{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    margin-top:63px;
+    float: left;
+    margin-left: 99px;
+    
+
+
+}
+.share4>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 160px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share4>.frn{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10px;
+    margin-top: 203px;
+
+    
+}
+.share4>.frn>.nam_format{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin-top: -55px;
+    margin-right: 45px;
+    text-shadow:2px 3px 15px red;
+    
+}
+
+.share4 > .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float: right;
+    margin-right:20px;
+    margin-top: 120px;
+/*    padding-top: -36px;*/
+}
+/*--------------------for 5th share ------------*/
+
+.share5{
+    background-image:url('../img/game/id5/id5s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share5 > .user{
+    background-size: 180px 180px;
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    background-repeat: no-repeat;
+    margin-top:73px;
+    float: left;
+    margin-left: 17px;
+    
+
+
+}
+.share5>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 180px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share5 > .random{
+    color:red;
+    float: left;
+    font-size: 27px;
+    padding-top: 105px;
+    font-weight: bold;
+    padding-left: 153px;
+    text-shadow:2px 3px 15px yellow;
+
+}
+
+
+/*--------------------for 6th share ------------*/
+
+.share6{
+    background-image:url('../img/game/id6/id6s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share6 > .user{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    margin-top:63px;
+    float: left;
+    margin-left: 17px;
+    
+
+
+}
+.share6>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 160px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share6>.frn{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 22px;
+    margin-top: 120px;
+
+    
+}
+.share6>.frn>.nam_format{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin-top: -50px;
+    margin-right: 40px;
+    text-shadow:2px 3px 15px red;
+    
+}
+
+.share6 > .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float:left;
+    margin-left :70px;
+    margin-top: 125px;
+}
+.share6 > .random{
+    color:yellow;
+    float:right;
+    font-size: 25px;
+    margin-top: 300px;
+    margin-right: -120px;
+    text-shadow:2px 3px 15px white;
+}
+/*--------------------for 7th share ------------*/
+
+.share7{
+    background-image:url('../img/game/id7/id7s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share7 > .user{
+    background-size: 180px 180px;
+    height: 180px;
+    width: 180px;
+    border-radius: 90%;
+    background-repeat: no-repeat;
+    margin-top:73px;
+    float: left;
+    margin-left: 17px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+
+}
+.share7>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 180px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share7 > .random{
+    color:red;
+    float: right;
+    font-size: 25px;
+    padding-top: 147px;
+    padding-right: 193px;
+    text-shadow:2px 3px 15px yellow;
+
+}
+
+/*--------------------for 8th share ------------*/
+
+.share8{
+    background-image:url('../img/game/id8/id8s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share8 > .user{
+    background-size: 200px 200px;
+    height: 200px;
+    width: 200px;
+    border-radius: 95%;
+    background-repeat: no-repeat;
+    margin-top:63px;
+    float: left;
+    margin-left: 17px;
+    
+
+
+}
+.share8>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 200px;
+    padding-left: 37px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+.share8>.frn{
+    background-size: 200px 200px;
+    height: 200px;
+    width: 200px;
+    border-radius: 95%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 7px;
+    margin-top: 160px;
+    
+
+    
+}
+.share8>.frn>.nam_format{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin-top: -60px;
+    margin-right: 60px;
+    text-shadow:2px 3px 15px red;
+    
+}
+.share8 > .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float:left;
+    margin-left :50px;
+    margin-top: 175px;
+}
+/*------------share 9---------------*/
+
+/*------------share 10---------------*/
+
+.share10{
+    background-image:url('../img/game/id10/id10s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share10> .user{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    margin-top:3px;
+    float: left;
+    margin-left: 39px;
+    
+
+
+}
+.share10>.frn{
+    background-size: 160px 160px;
+    height: 160px;
+    width: 160px;
+    border-radius: 80%;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 60px;
+    margin-top: 203px;
+
+    
+}
+.share10> .descp > p{
+    font-size: 25px;
+    color: white;
+    text-shadow:2px 3px 15px red;
+    float: right;
+    margin-right:20px;
+    margin-top: 120px;
+}
+/*--------------------for 11th share ------------*/
+
+.share11{
+    background-image:url('../img/game/id11/id11s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share11> .user{
+    background-size: 150px 150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 70%;
+    background-repeat: no-repeat;
+    margin-top:117px;
+    float: left;
+    margin-left: 31px;
+    
+
+
+}
+.share11>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 150px;
+    float: left;
+    margin-left: 10px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+
+    
+
+.share11> .descp > p{
+    font-size: 25px;
+    color: yellow;
+    text-shadow:2px 3px 15px red;
+    float:left;
+    margin-left :180px;
+    margin-top: 175px;
+}
+/*--------------------for 12th share ------------*/
+
+.share12{
+    background-image:url('../img/game/id12/id12s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share12> .user{
+    background-size: 150px 150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 73%;
+    background-repeat: no-repeat;
+    margin-top:177px;
+    float: left;
+    margin-left: 16px;
+    
+
+
+}
+.share12>.user>.nam_format{
+    color:white;
+    font-size: 30px;
+   padding-top: 150px;
+    float: left;
+    margin-left: 20px;
+    text-shadow:2px 3px 15px red;
+	
+	
+}
+
+    
+
+.share12> .descp > p{
+    font-size: 25px;
+    color: blue;
+    text-shadow:2px 3px 15px red;
+    float:left;
+    margin-left :200px;
+    margin-top: 175px;
+}
+
+
+/*--------------------for 13th share ------------*/
+
+.share13{
+    background-image:url('../img/game/id13/id13s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share13 > .user{
+    background-size: 150px 150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 75%;
+    background-repeat: no-repeat;
+    margin-top:63px;
+    float: left;
+    margin-left: 47px;
+    
+
+
+}
+.share13>.frn{
+    background-size: 150px 150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 75%;
+    float: right;
+    margin-right: 40px;
+    margin-top: 139px;
+    
+
+    
+}
+.share13>.frn>.nam_format{
+    color: white;
+    float: right;
+    font-size: 30px;
+    margin-top: -60px;
+    margin-right: 40px;
+    text-shadow:2px 3px 15px red;
+    
+}
+.share13 > .heart  {
+    height:180px;
+    width: 180px;
+    float:left;
+    margin-left :50px;
+    margin-top: 125px;
+}
+
+/*--------------------for 14th share ------------*/
+
+.share14{
+    background-image:url('../img/game/id14/id14s.jpg'); 
+    background-size: 680px 370px;
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+.share14 > .frn1{
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin-top:69px;
+    float: left;
+    margin-left: 10px;
+    
+}
+.share14 > .frn2{
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin-top:110px;
+    float: left;
+    margin-left: 45px;
+    
+}
+
+.share14 > .user{
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin-top:60px;
+    float: left;
+    margin-left: 40px;
+    
+}.share14 > .frn4{
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin-top:107px;
+    float: left;
+    margin-left: 37px;
+    
+}
+.share14 > .frn5{
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin-top:72px;
+    float: right;
+    margin-right: 23px;
+    
+}

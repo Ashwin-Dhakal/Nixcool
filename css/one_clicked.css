@@ -1,0 +1,28 @@
+
+
+.id1s, .id2s, .id3s, .id4s, .id5s, .id6s, .id7s, .id8s, .id9s, .id10s, .id11s, .id12s, .id13s, .id14s {
+    height: 370px;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 1px;
+    margin-bottom: 2px;
+}
+
+.login {
+    height: 45px;
+    width: 300px;
+    margin-top: 35px;
+    margin-left: 240px;
+  
+    margin-bottom: 2px;
+}
+
+.one_clicked_ad {
+    
+    height: 450px;
+    width: 260px;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 2px;
+}
